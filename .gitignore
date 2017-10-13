@@ -1,7 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
-bin
-eggs
-old-eggs
-develop-eggs
-*.egg-info
+bin/
+eggs/
+old-eggs/
+develop-eggs/
+*.egg-info/
+.idea/inspectionProfiles/
+parts/
