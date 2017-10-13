@@ -9,7 +9,7 @@ from setuptools import find_packages, setup
 setup(name='demo',
       version='0.0.1',
       author='wangzz',
-      author_email='wangzz@inke.cn',
+      author_email='wzhizhao@gmail.com',
       description='',
       license='PRIVATE',
       packages=find_packages(),
