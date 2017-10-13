@@ -1,0 +1,10 @@
+setup.py
+buildout_demo.egg-info/PKG-INFO
+buildout_demo.egg-info/SOURCES.txt
+buildout_demo.egg-info/dependency_links.txt
+buildout_demo.egg-info/entry_points.txt
+buildout_demo.egg-info/requires.txt
+buildout_demo.egg-info/top_level.txt
+demo/__init__.py
+demo/hello_word.py
+demo/main.py
